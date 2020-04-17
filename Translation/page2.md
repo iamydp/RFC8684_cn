@@ -1,0 +1,4 @@
+版权信息
+IETF Trust及上文提及作者版权所有，保留所有权利。
+此文档自公开之日起权利即受到BCP78和IETF Trust's Legal Provision保护，由于其中列出了您对这份文档所拥有的权利与受到的限
+制，请务必阅读它们。从本文档中提取的任何代码必须包含Trust Legal Provision第4.e条款处所提及的simplified BCD License，并且本文档遵循该许可，不对代码做任何保证。

@@ -1,0 +1,14 @@
+RFC6864
+多址下的多链路TCP扩展
+
+概要
+TPC/IP被限制在一条连接上的通讯仅能从单条链路上通过，但一条连接间往往存在多条链路，对于单个TCP/IP会话同时使用多条链路可提
+高网络资源使用率，并在高网络负载下提升用户体验和对网络的容差性。
+MPTCP可为一条连接使用多条链路。这份文档提供了可以使传统TCP支持MPTCP的扩展方法。MPTCP对应用层提供了与传统TCP一样的服务
+（如可靠字节流，reliable bytestream），并提供必要组件以建立并使用通过多条不相干路径的TCP流。
+这份文档明确了第一版MPTCP的内容，同时也取代了第零版内容（参见RFC6824)，文档中多数阐明和修改都将会通过部署阶段体现。
+备忘录身份
+此为IST（Internet Standard Track）文档。
+此份文档由IETF（Internet Engineering Task Force）完成，其代表了IETF社区的共同意见，同时也收到了来自IESG（Internet 
+Engineering Steering Group）的建议个发行许可。更多有关网络标准化的信息参见RFC7841中的第二款。
+所有有关这份文档的信息、勘误以及如何提供反馈意见，参见
