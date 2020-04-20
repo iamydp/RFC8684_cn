@@ -5,12 +5,22 @@ RFC8684原版一共68页，基本上一天一页翻译，周末更新到github
 
 本人才疏学浅，如有纰漏请指正。
 
-#不进行翻译的词汇
+以下是不进行翻译的，或本来没有这个词原本中自创的，或在语境中有特定意义的词汇：
 
-TCP option
+subflow:分流
 
-FastOpen/Close(also TFO)
+TCP Option(s):不译
 
-……
+consideration:有关...的考量
+
+token:不译
+
+host:主机(部分不译)(根据上下文会翻译成远端主机或者本地主机)
+
+address:地址(部分不译)
+
+combination:根据上下文或语境翻译成组合/结合，或者数学用语组合(nCr)
+
+原文中的subflow或TCP/MPTCP连接(connnection)也有时被称为会话(session)，会根据语境和上下文翻译。
 
 *当前进度 8 out of 68 pages*
