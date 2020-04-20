@@ -13,4 +13,4 @@ FastOpen/Close(also TFO)
 
 ……
 
-*当前进度 7.3 out of 68 pages*
+*当前进度 8 out of 68 pages*
