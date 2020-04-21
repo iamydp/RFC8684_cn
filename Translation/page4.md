@@ -14,14 +14,14 @@
 6.与中间件的交互
 7.有关IANA的考量
     7.1TCP种类代号
-    7.2MPTCP options种类
+    7.2MPTCP Options种类
     7.3MPTCP握手算法
     7.4MP_TCPRST错误码对照
 8.参考
     8.1参考的互联网规范
     8.2其他参考
     
-附录A.有关TCP options的记录
+附录A.有关TCP Options的记录
 附录B.TCP Fast Open与MPTCP
     B.1MPTCP下请求TFO cookie
     B.2TFO下的数据序列映射
