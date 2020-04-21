@@ -12,6 +12,6 @@ address:地址(部分不译)
 combination:根据上下文或语境翻译成组合/结合，或者数学用语-组合(nCr)
 原文中的subflow或TCP/MPTCP连接(connnection)也有时被称为会话(session)，会根据语境和上下文翻译。
 Connection/Dataflow/Data-level:译作XX等级,有时作形容词.
-原文中描述TCP是有使用standard/basic/regular/common/single-path/legacy等词汇,翻译时将根据字面意思处理.
+原文中描述TCP时有使用standard/basic/regular/common/single-path/legacy等词汇,翻译时将根据字面意思处理.
 
 *当前进度 8 out of 68 pages*
