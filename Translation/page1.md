@@ -10,5 +10,5 @@ MPTCP可为一条连接使用多条链路。这份文档提供了可以使传统
 备忘录身份
 此为IST（Internet Standard Track）文档。
 此份文档由IETF（Internet Engineering Task Force）完成，其代表了IETF社区的共同意见，同时也收到了来自IESG（Internet 
-Engineering Steering Group）的建议个发行许可。更多有关网络标准化的信息参见RFC7841中的第二款。
+Engineering Steering Group）的建议个发行许可。更多有关网络标准化的信息参见RFC7841中的第二章。
 所有有关这份文档的信息、勘误以及如何提供反馈意见，参见
