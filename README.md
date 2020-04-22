@@ -9,15 +9,17 @@ RFC8684原版一共68页，基本上一天一页翻译，周末更新到github
 
     subflow:分流
 
-    TCP Option(s):不译.有关是否翻译的调查详见https://www.hostloc.com/forum.php?mod=viewthread&tid=678289&page=1#pid8233349 
+    TCP Option(s):不译.有关是否翻译的调查详见https://www.hostloc.com/forum.php?mod=viewthread&tid=678289&page=1#pid8233349  总结下就是有人看不懂.
 
+    与上条类似,MPTCP Option或者MP_XXX Option也不进行翻译.
+    
     consideration:有关...的考量,在未找到更为合适的译意暂且用这个.
     
     token:不译.
     
     host:主机(部分不译)(根据上下文会翻译成远端主机或者本地主机).
     
-    address:地址(部分不译)
+    address:地址(部分不译).
     
     combination:根据上下文或语境翻译成组合/结合，或者数学用语-组合(nCr)
     
@@ -27,4 +29,4 @@ RFC8684原版一共68页，基本上一天一页翻译，周末更新到github
 
     原文中描述TCP时有使用standard/basic/regular/common/single-path/legacy等词汇,翻译时将根据字面意思处理.
 
-*当前进度 9 out of 68 pages*
+*当前进度 11 out of 68 pages*
