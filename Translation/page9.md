@@ -1,0 +1,15 @@
+1.5表示要求的动词
+在下列关键词出现，并与在BCP14（RFC2119）（RFC814）中被给予的定义一样时将会加粗显示：MUST、MUST NOT、RECUIRED、SHALL、
+SHALL NOT、SHOULD、SHOULD NOT、RECOMMENDED、NOT RECOMMENDED、MAY和OPTIONAL
+
+2.操作概览
+本章里以协议为线索总结或描述了MPTCP的几个关键功能。有关MPTCP的完整说明参阅第3章。IANA分配的MPTCP Option（参阅第7章）在
+此被细化并且根据协议内容赋予了不同的简写名称。
+MPTCP在主机间提供了类似常规TCP的双向连接，这使得其可以在不对应用做任何改动的情况下使其支持MPTCP。MPTCP可在主机上的不同地
+址间建立链路并且传输属于MPTCP的数据包。对于网络层来说，MPTCP分流可看做常规TCP流，只不过其分流是分段运载的新的TCP Option
+罢了。MPTCP通过管理分流的新建、移除和使用来发送数据。同一MPTCP连接中的分流数量是不固定的，其会在使用时波动。
+无论MPTCO进行何种动作都有一个MPTCP Option与之对应。下文总结了MPTCP的消息目的和基本原理。
+
+2.1发起MPTCP连接
+这与发起普通的TCP连接相同，仅有的区别在于SYN，SYN/ACK，和初始ACK（和数据）都载有MP_CAPABLE Option。此Option长度不定，
+主要是为了验证远程主机是否支持MPTCP，和允许主机间的信息交换来验证额外分流的建立。更多有关此Option的信息参阅第3章第1节
