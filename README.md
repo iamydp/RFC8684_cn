@@ -29,4 +29,4 @@ RFC8684原版一共68页，基本上一天一页翻译，周末更新到github
 
     原文中描述TCP时有使用standard/basic/regular/common/single-path/legacy等词汇,翻译时将根据字面意思处理.
 
-*当前进度 11 out of 68 pages*
+*当前进度 13 out of 68 pages*
