@@ -25,8 +25,8 @@ RFC8684原版一共68页，基本上一天一页翻译，周末更新到github
     
     原文中的subflow或TCP/MPTCP连接(connnection)也有时被称为会话(session)，会根据语境和上下文翻译。
     
-    Connection/Dataflow/Data-level:译作XX等级,有时作形容词.
+    Connection/Dataflow/Data-level:与其掉入屎坑，不如离屎坑远点,绝对不翻译.
 
     原文中描述TCP时有使用standard/basic/regular/common/single-path/legacy等词汇,翻译时将根据字面意思处理.
 
-*当前进度 15 out of 68 pages*
+*当前进度 16 out of 68 pages 进入慢速翻译模式，平均进度不变*
