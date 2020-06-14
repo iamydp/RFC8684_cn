@@ -3,6 +3,8 @@ RFC8684的中文翻译|Chinese translation for RFC8684
 
 RFC8684原版一共68页，基本上一天一页翻译，周末更新到github
 
+键盘字母区第二行全坏了，暂停更新
+
 本人才疏学浅，如有纰漏请指正。
 
 以下是不进行翻译的，或本来没有这个词原本中自创的，或在语境中有特定意义的词汇：
@@ -29,7 +31,5 @@ RFC8684原版一共68页，基本上一天一页翻译，周末更新到github
 
     原文中描述TCP时有使用standard/basic/regular/common/single-path/legacy等词汇,翻译时将根据字面意思处理.
 
-*当前进度 20 out of 68 pages *
-
-ETA 2mo
+*当前进度 完成 *
 
